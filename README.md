@@ -16,9 +16,9 @@ Age         : 20
 Country     : Pakistan 🇵🇰
 Experience  : 1+ Year
 
-Status      : Building. Learning. Sharing.
+Status      : 💼 Open to Freelance & Full-time Opportunities
 
-──────────────────────────────────────────────────────────────────────────────
+─────────────────────────────────────────────────────────────────
 
 Frontend    : HTML • CSS • JavaScript • React • Tailwind CSS • Bootstrap
 
@@ -31,7 +31,7 @@ Versioning  : Git • GitHub
 Currently
 Learning    : TypeScript • Next.js
 
-──────────────────────────────────────────────────────────────────────────────
+─────────────────────────────────────────────────────────────────
 
 Current Focus
 
@@ -39,10 +39,10 @@ Current Focus
 ▸ Resume Generator
 ▸ Personal Portfolio
 ▸ Growing Social Presence
-▸ Open Source
+▸ Open Source Contributions
 ▸ Technical Documentation
 
-──────────────────────────────────────────────────────────────────────────────
+─────────────────────────────────────────────────────────────────
 
 Philosophy
 
@@ -54,10 +54,12 @@ while(alive){
     Repeat();
 }
 
-──────────────────────────────────────────────────────────────────────────────
+─────────────────────────────────────────────────────────────────
 ```
 
-# Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
 
@@ -67,7 +69,7 @@ while(alive){
 
 ---
 
-# Currently Learning
+## 📚 Currently Learning
 
 <p align="center">
 
@@ -77,7 +79,35 @@ while(alive){
 
 ---
 
-# Connect With Me
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wahaj-Developer&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wahaj-Developer&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Wahaj-Developer&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wahaj-Developer&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🤝 Connect With Me
 
 | Platform | Link |
 |----------|------|
@@ -92,4 +122,26 @@ while(alive){
 
 ---
 
+## 👤 About Me
 
+I'm a passionate Full Stack MERN developer from Pakistan, constantly learning and building projects to sharpen my skills. I believe in the power of consistency and continuous improvement. When I'm not coding, I'm either exploring new technologies or helping others in the developer community.
+
+---
+
+## 📈 Visitor Count
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Wahaj-Developer&style=for-the-badge&color=blue"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### Thanks for visiting! 🙏
+
+*"Code. Learn. Build. Repeat."*
+
+</div>
