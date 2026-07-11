@@ -1,35 +1,151 @@
-<h1 align="center">Hi 👋, I'm Wahaj</h1>
-<h3 align="center">A passionate MERN stake developer with full stake nature from Pakistan</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wahaj-developer" alt="wahaj-developer" /></a> </p>
+# Muhammed Wahaj Ahmed
 
-- 🔭 I’m currently working on **MERN stake project**
+### Full Stack MERN Developer • Pakistan 🇵🇰
 
-- 🌱 I’m currently learning **Nextjs**
+*"Trying to build my world on the digital web."*
 
-- 👯 I’m looking to collaborate on **Development projects and ideas**
+</div>
 
-- 🤝 I’m looking for help with **learn together**
+```text
+wahaj@github
+──────────────────────────────────────────────────────────────────────────────
 
-- 👨‍💻 All of my projects are available at [https://my-website-personal-portfolio.netlify.app/](https://my-website-personal-portfolio.netlify.app/)
+                      ██████████████████████████
+                  █████████████████████████████████
+               ██████████████████████████████████████
+             ████████                    ████████████
+            ██████      TERMINAL MODE       █████████
+            █████       DEVELOPER PROFILE     ███████
+            ██████                        ███████████
+             ███████████████████████████████████████
+               ███████████████████████████████████
+                    █████████████████████████
 
-- 📝 I regularly write articles on [https://my-website-personal-portfolio.netlify.app/](https://my-website-personal-portfolio.netlify.app/)
+Name        : Muhammed Wahaj Ahmed
+Age         : 20
+Country     : Pakistan 🇵🇰
+Experience  : 1+ Year
 
-- 💬 Ask me about **react,nodejs,expressjs,tailwind**
+Status      : Building. Learning. Sharing.
 
-- 📫 How to reach me **ahmedwahaj317@gmail.com**
+──────────────────────────────────────────────────────────────────────────────
 
-- 📄 Know about my experiences [https://my-website-personal-portfolio.netlify.app/](https://my-website-personal-portfolio.netlify.app/)
+Frontend    : HTML • CSS • JavaScript • React • Tailwind CSS • Bootstrap
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/wahaj ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wahaj ahmed" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://x.com/wahajahmed82826" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://x.com/wahajahmed82826" height="30" width="40" /></a>
+Backend     : Node.js • Express.js
+
+Database    : MongoDB
+
+Versioning  : Git • GitHub
+
+Currently
+Learning    : TypeScript • Next.js
+
+──────────────────────────────────────────────────────────────────────────────
+
+Current Focus
+
+▸ Building AI Interview Platform
+▸ Resume Generator
+▸ Personal Portfolio
+▸ Growing Social Presence
+▸ Open Source
+▸ Technical Documentation
+
+──────────────────────────────────────────────────────────────────────────────
+
+Philosophy
+
+while(alive){
+    Learn();
+    Build();
+    Fail();
+    Improve();
+    Repeat();
+}
+
+──────────────────────────────────────────────────────────────────────────────
+```
+
+# Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode" />
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wahaj-developer&show_icons=true&locale=en&layout=compact" alt="wahaj-developer" /></p>
+# Currently Learning
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wahaj-developer&show_icons=true&locale=en" alt="wahaj-developer" /></p>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=typescript,nextjs" />
+
+</p>
+
+---
+
+# Connect With Me
+
+| Platform | Link |
+|----------|------|
+| 🌐 Portfolio | https://my-website-personal-portfolio.netlify.app/ |
+| 🌳 Linktree | https://wahaj-link-tree.netlify.app/ |
+| 💼 LinkedIn | https://www.linkedin.com/in/wahaj-a-212bb633b/ |
+| 📸 Instagram | https://www.instagram.com/codewithwahaj/ |
+| 🎵 TikTok | https://www.tiktok.com/@codewithwahaj |
+| 🐦 X | https://x.com/WahajAhmed82826 |
+| 📘 Facebook | https://www.facebook.com/wahaj.khan.820939 |
+| 💻 Fiverr | https://www.fiverr.com/sellers/wahajakhanahmed |
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# Visitor Count
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### Thanks for visiting!
+
+*"Code. Learn. Build. Repeat."*
+
+</div>
