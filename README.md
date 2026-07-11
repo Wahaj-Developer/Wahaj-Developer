@@ -4,7 +4,7 @@
 
 ### Full Stack MERN Developer • Pakistan 🇵🇰
 
-*"Trying to build my world on the digital web."*
+*"I'm a self-taught Full Stack MERN developer from Pakistan with 1+ year of hands-on experience building full-stack web applications. I enjoy transforming ideas into real products, exploring modern JavaScript technologies, and documenting my learning journey. My goal is to become a professional software engineer while contributing to open-source projects and building tools that solve real-world problems."*
 
 </div>
 
