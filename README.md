@@ -20,7 +20,7 @@ Status      : 💼 Open to Freelance & Full-time Opportunities
 
 ─────────────────────────────────────────────────────────────────
 
-Frontend    : HTML • CSS • JavaScript • React • Tailwind CSS • Bootstrap
+Frontend    : HTML • CSS • JavaScript • React • Tailwind CSS • Bootstrap 
 
 Backend     : Node.js • Express.js
 
@@ -28,8 +28,7 @@ Database    : MongoDB
 
 Versioning  : Git • GitHub
 
-Currently
-Learning    : TypeScript • Next.js
+Currently: Building projects and working on personal branding
 
 ─────────────────────────────────────────────────────────────────
 
