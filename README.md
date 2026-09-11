@@ -20,15 +20,15 @@ Status      : 💼 Open to Freelance & Full-time Opportunities
 
 ─────────────────────────────────────────────────────────────────
 
-Frontend    : HTML • CSS • JavaScript • React • Tailwind CSS • Bootstrap • SCSS
+Frontend    : HTML • CSS • SCSS • JavaScript • React • Tailwind CSS • Bootstrap 
 
-Backend     : Node.js • Express.js
+Backend     : Node.js • Express.js • MongoDB
 
 Database    : MongoDB
 
 Tools       : Git • GitHub • Figma • Cursor AI • ImageKit • Cloudinary
 
-AI & APIs   : Gemini APIs • AI Engineering
+AI & APIs   : Gemini APIs ��� AI Engineering • DSA
 
 Versioning  : Git • GitHub
 
@@ -38,12 +38,21 @@ Currently: Building AI-powered projects and contributing to open source
 
 Current Focus
 
-▸ Building AI Interview Platform
+▸ Building AI Interview Platform (My Strongest Project)
 ▸ AI Code Review Tools
 ▸ Personal Portfolio Enhancement
 ▸ Contributing to AI Engineering Playbook
 ▸ Open Source Contributions
 ▸ Technical Documentation
+
+─────────────────────────────────────────────────────────────────
+
+Featured Projects
+
+▸ Interview Copilot (Strongest)
+▸ Web-Folio (Portfolio)
+▸ Food Eat
+▸ AI Code Review (Learning)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -88,7 +97,7 @@ while(alive){
 ### **Cloud & Services**
 <p align="center">
 
-Imagekit • Cloudinary • Gemini APIs • Cursor AI • Square Space
+ImageKit • Cloudinary • Gemini APIs • Cursor AI • Square Space • DSA
 
 </p>
 
@@ -101,67 +110,6 @@ Imagekit • Cloudinary • Gemini APIs • Cursor AI • Square Space
 <img src="https://skillicons.dev/icons?i=typescript,nextjs" />
 
 </p>
-
----
-
-## 💼 Featured Projects
-
-### 🏆 **Interview Copilot** (Strongest Project)
-> AI-powered platform to help candidates prepare for technical interviews with real-time feedback and mock interviews.
-
-- **Tech Stack:** React • Node.js • Express • MongoDB • Gemini APIs
-- **Features:** Real-time interview simulation, AI feedback, performance analytics
-- **Live Demo:** [Interview Copilot Demo](#)
-- **Case Study:** [Full Case Study](#)
-- **Documentation:** [Project Docs](#)
-- **Repository:** [View Code](https://github.com/Wahaj-Developer/)
-
----
-
-### 🌐 **Web-Folio** (Portfolio)
-> A modern, responsive personal portfolio showcasing projects, skills, and professional journey.
-
-- **Tech Stack:** React • Tailwind CSS • Figma Design
-- **Features:** Project showcase, smooth animations, contact form
-- **Live Demo:** [Web-Folio Live](https://my-website-personal-portfolio.netlify.app/)
-- **Case Study:** [Full Case Study](#)
-- **Documentation:** [Project Docs](#)
-- **Repository:** [View Code](https://github.com/Wahaj-Developer/)
-
----
-
-### 🍽️ **Food Eat**
-> A food delivery application connecting users with restaurants and enabling seamless ordering.
-
-- **Tech Stack:** React • Node.js • Express • MongoDB • Tailwind CSS
-- **Features:** Restaurant listings, order management, user authentication
-- **Live Demo:** [Food Eat Demo](#)
-- **Case Study:** [Full Case Study](#)
-- **Documentation:** [Project Docs](#)
-- **Repository:** [View Code](https://github.com/Wahaj-Developer/)
-
----
-
-### 🤖 **AI Code Review** (Learning Project)
-> Automated code review tool powered by AI to provide intelligent feedback on code quality and best practices.
-
-- **Tech Stack:** React • Node.js • Gemini APIs • Express • MongoDB
-- **Features:** Automated code analysis, AI-powered suggestions, performance metrics
-- **Live Demo:** [AI Code Review Demo](#)
-- **Case Study:** [Full Case Study](#)
-- **Documentation:** [Project Docs](#)
-- **Repository:** [View Code](https://github.com/Wahaj-Developer/)
-
----
-
-## 📖 Resources & Learning
-
-### **AI Engineering Playbook**
-A comprehensive guide and repository for AI engineering best practices, patterns, and implementations.
-
-- **Focus:** AI integration, prompt engineering, API management
-- **Repository:** [AI Engineering Playbook](https://github.com/Wahaj-Developer/AI-Engineering-Playbook)
-- **Use Cases:** Building AI-powered applications, integrating LLMs, optimizing AI workflows
 
 ---
 
@@ -193,6 +141,132 @@ A comprehensive guide and repository for AI engineering best practices, patterns
 
 ---
 
+## 💼 Featured Projects
+
+```text
+╔════════════════════════════════════════════════════════════════════════════╗
+║                          🚀 INTERVIEW COPILOT                             ║
+║                        (My Strongest Project!)                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+Description : AI-powered platform to help candidates prepare for technical
+              interviews with real-time feedback and mock interviews.
+
+Tech Stack  : React • Node.js • Express • MongoDB • Gemini APIs
+
+Features    : • Real-time interview simulation
+              • AI-powered feedback and analysis
+              • Performance analytics & tracking
+              • Mock interview with instant results
+              • Interview history & improvements
+
+Links       : 
+  🔗 Live Demo          : [Interview Copilot Demo](#)
+  📖 Case Study         : [Full Case Study](#)
+  📚 Documentation      : [Project Docs](#)
+  💻 Repository         : [View on GitHub](#)
+
+─────────────────────────────────────────────────────────────────────────────
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║                            🌐 WEB-FOLIO                                   ║
+║                        (Personal Portfolio)                               ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+Description : A modern, responsive personal portfolio showcasing projects,
+              skills, and professional journey with smooth animations.
+
+Tech Stack  : React • Tailwind CSS • JavaScript • Figma Design
+
+Features    : • Responsive design across all devices
+              • Project showcase with live demos
+              • Smooth scroll animations & transitions
+              • Contact form with validation
+              • Dark mode support
+
+Links       :
+  🔗 Live Demo          : https://my-website-personal-portfolio.netlify.app/
+  📖 Case Study         : [Full Case Study](#)
+  📚 Documentation      : [Project Docs](#)
+  💻 Repository         : [View on GitHub](#)
+
+─────────────────────────────────────────────────────────────────────────────
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║                            🍽️  FOOD EAT                                    ║
+║                       (Food Delivery Platform)                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+Description : A comprehensive food delivery application connecting users with
+              restaurants and enabling seamless ordering experience.
+
+Tech Stack  : React • Node.js • Express • MongoDB • Tailwind CSS
+
+Features    : • Restaurant listings & filters
+              • Real-time order management
+              • User authentication & profiles
+              • Payment integration
+              • Order tracking & history
+              • Search & recommendations
+
+Links       :
+  🔗 Live Demo          : [Food Eat Demo](#)
+  📖 Case Study         : [Full Case Study](#)
+  📚 Documentation      : [Project Docs](#)
+  💻 Repository         : [View on GitHub](#)
+
+─────────────────────────────────────────────────────────────────────────────
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║                         🤖 AI CODE REVIEW                                 ║
+║                        (Learning Project)                                 ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+Description : Automated code review tool powered by AI to provide intelligent
+              feedback on code quality, performance, and best practices.
+
+Tech Stack  : React • Node.js • Gemini APIs • Express • MongoDB
+
+Features    : • Automated code analysis & scanning
+              • AI-powered suggestions & improvements
+              • Performance metrics & insights
+              • Code quality scoring
+              • Best practices recommendations
+              • Integration with multiple languages
+
+Links       :
+  🔗 Live Demo          : [AI Code Review Demo](#)
+  📖 Case Study         : [Full Case Study](#)
+  📚 Documentation      : [Project Docs](#)
+  💻 Repository         : [View on GitHub](#)
+
+─────────────────────────────────────────────────────────────────────────────
+```
+
+---
+
+## 📖 Resources & Learning
+
+```text
+╔════════════════════════════════════════════════════════════════════════════╗
+║                   📚 AI ENGINEERING PLAYBOOK                              ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+Focus       : AI integration, prompt engineering, API management
+
+Repository  : https://github.com/Wahaj-Developer/AI-Engineering-Playbook
+
+Use Cases   : • Building AI-powered applications
+              • Integrating LLMs effectively
+              • Optimizing AI workflows
+              • Best practices & patterns
+              • Real-world implementations
+
+─────────────────────────────────────────────────────────────────────────────
+```
+
+---
+
 ## 🤝 Connect With Me
 
 | Platform | Link |
@@ -210,7 +284,7 @@ A comprehensive guide and repository for AI engineering best practices, patterns
 
 ## 👤 About Me
 
-I'm a passionate Full Stack MERN developer from Pakistan, constantly learning and building projects to sharpen my skills. I believe in the power of consistency and continuous improvement. 
+I'm a passionate Full Stack MERN developer from Pakistan, constantly learning and building projects to sharpen my skills. I believe in the power of consistency and continuous improvement. When I'm not coding, I'm learning new technologies, contributing to open-source projects, or sharing knowledge with the community.
 
 With experience in:
 - **Full-stack web development** using the MERN stack
@@ -218,8 +292,7 @@ With experience in:
 - **UI/UX design** principles and implementation
 - **Cloud services** integration (ImageKit, Cloudinary)
 - **Open-source contribution** and community involvement
-
-I'm driven by the desire to solve real-world problems through code and collaborate with talented individuals. When I'm not coding, I'm learning new technologies, contributing to open-source projects, or sharing knowledge with the community.
+- **Data Structures & Algorithms** for optimized solutions
 
 ---
 
