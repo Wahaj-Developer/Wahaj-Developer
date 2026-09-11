@@ -47,12 +47,12 @@ Current Focus
 
 ─────────────────────────────────────────────────────────────────
 
-Featured Projects
+Featured Projects (View Details Below)
 
-▸ Interview Copilot (Strongest)
-▸ Web-Folio (Portfolio)
-▸ Food Eat
-▸ AI Code Review (Learning)
+▸ 🚀 Interview Copilot (Strongest)        ➜ #-interview-copilot
+▸ 🌐 Web-Folio (Portfolio)                ➜ #-web-folio
+▸ 🍽️  Food Eat                             ➜ #-food-eat
+▸ 🤖 AI Code Review (Learning)            ➜ #-ai-code-review
 
 ─────────────────────────────────────────────────────────────────
 
@@ -143,11 +143,14 @@ ImageKit • Cloudinary • Gemini APIs • Cursor AI • Square Space • DSA
 
 ## 💼 Featured Projects
 
+### 🚀 INTERVIEW COPILOT
+#### *My Strongest Project!*
+
 ```text
 ╔════════════════════════════════════════════════════════════════════════════╗
 ║                          🚀 INTERVIEW COPILOT                             ║
 ║                        (My Strongest Project!)                            ║
-╚════════════════════════════════════════════════════════════════════════════╝
+╚══════════════════════════════════════════════════════��═════════════════════╝
 
 Description : AI-powered platform to help candidates prepare for technical
               interviews with real-time feedback and mock interviews.
@@ -167,7 +170,14 @@ Links       :
   💻 Repository         : [View on GitHub](#)
 
 ─────────────────────────────────────────────────────────────────────────────
+```
 
+---
+
+### 🌐 WEB-FOLIO
+#### *Personal Portfolio*
+
+```text
 ╔════════════════════════════════════════════════════════════════════════════╗
 ║                            🌐 WEB-FOLIO                                   ║
 ║                        (Personal Portfolio)                               ║
@@ -191,7 +201,14 @@ Links       :
   💻 Repository         : [View on GitHub](#)
 
 ─────────────────────────────────────────────────────────────────────────────
+```
 
+---
+
+### 🍽️ FOOD EAT
+#### *Food Delivery Platform*
+
+```text
 ╔════════════════════════════════════════════════════════════════════════════╗
 ║                            🍽️  FOOD EAT                                    ║
 ║                       (Food Delivery Platform)                            ║
@@ -216,7 +233,14 @@ Links       :
   💻 Repository         : [View on GitHub](#)
 
 ─────────────────────────────────────────────────────────────────────────────
+```
 
+---
+
+### 🤖 AI CODE REVIEW
+#### *Learning Project*
+
+```text
 ╔════════════════════════════════════════════════════════════════════════════╗
 ║                         🤖 AI CODE REVIEW                                 ║
 ║                        (Learning Project)                                 ║
