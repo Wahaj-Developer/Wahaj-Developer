@@ -49,7 +49,7 @@ Current Focus
 
 Featured Projects (View Details Below)
 
-▸ 🚀 Interview Copilot (Strongest)        ➜ #-interview-copilot
+▸ 🚀 Interview Copilot (Strongest)        ➜ ### 🚀 INTERVIEW COPILOT
 ▸ 🌐 Web-Folio (Portfolio)                ➜ #-web-folio
 ▸ 🍽️  Food Eat                             ➜ #-food-eat
 ▸ 🤖 AI Code Review (Learning)            ➜ #-ai-code-review
@@ -144,7 +144,6 @@ ImageKit • Cloudinary • Gemini APIs • Cursor AI • Square Space • DSA
 ## 💼 Featured Projects
 
 ### 🚀 INTERVIEW COPILOT
-#### *My Strongest Project!*
 
 ```text
 ╔════════════════════════════════════════════════════════════════════════════╗
@@ -195,10 +194,10 @@ Features    : • Responsive design across all devices
               • Dark mode support
 
 Links       :
-  🔗 Live Demo          : https://my-website-personal-portfolio.netlify.app/
-  📖 Case Study         : [Full Case Study](#)
-  📚 Documentation      : [Project Docs](#)
-  💻 Repository         : [View on GitHub](#)
+  🔗 Live Demo          : https://interview-copilot-6uhu.vercel.app/login
+  📖 Case Study         : [Full Case Study](https://web-folio-tlrw.vercel.app/blog/interview-ai-building-a-full-stack-ai-powered-interview-preparation-platform)
+  📚 Documentation      : [Project Docs](https://web-folio-tlrw.vercel.app/blog/interview-ai-case-study-why-i-built-it-how-i-built-it-and-everything-that-tried-to-stop-me)
+  💻 Repository         : [View on GitHub](https://github.com/Wahaj-Developer/InterviewCopilot)
 
 ─────────────────────────────────────────────────────────────────────────────
 ```
@@ -227,10 +226,10 @@ Features    : • Restaurant listings & filters
               • Search & recommendations
 
 Links       :
-  🔗 Live Demo          : [Food Eat Demo](#)
-  📖 Case Study         : [Full Case Study](#)
-  📚 Documentation      : [Project Docs](#)
-  💻 Repository         : [View on GitHub](#)
+  🔗 Live Demo          : [Food Eat Demo](https://food-eat-web-application.vercel.app/user/login)
+  📖 Case Study         : [Full Case Study](https://web-folio-tlrw.vercel.app/blog/food-view-case-study-why-i-built-it-how-i-built-it-and-the-css-that-personally-attacked-me)
+  📚 Documentation      : [Project Docs](https://web-folio-tlrw.vercel.app/blog/food-view-building-a-full-stack-short-video-food-discovery-platform)
+  💻 Repository         : [View on GitHub](https://github.com/Wahaj-Developer/Food-Eat-Application)
 
 ─────────────────────────────────────────────────────────────────────────────
 ```
