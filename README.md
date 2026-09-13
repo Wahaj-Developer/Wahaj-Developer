@@ -4,7 +4,7 @@
 
 ### Full Stack MERN Developer • Pakistan 🇵🇰
 
-*"I'm a self-taught Full Stack MERN developer from Pakistan with 1+ year of hands-on experience building full-stack web applications. I enjoy transforming ideas into real products, exploring modern technologies, and continuously pushing the boundaries of what I can build."*
+*"I'm a self-taught Full Stack MERN developer from Pakistan with 1+ year of hands-on experience building full-stack web applications. I enjoy transforming ideas into real products, exploring modern technologies, and sharing my journey with the developer community."*
 
 </div>
 
@@ -28,7 +28,7 @@ Database    : MongoDB
 
 Tools       : Git • GitHub • Figma • Cursor AI • ImageKit • Cloudinary
 
-AI & APIs   : Gemini APIs ��� AI Engineering • DSA
+AI & APIs   : Gemini APIs • AI Engineering • DSA
 
 Versioning  : Git • GitHub
 
@@ -47,12 +47,12 @@ Current Focus
 
 ─────────────────────────────────────────────────────────────────
 
-Featured Projects (View Details Below)
+Featured Projects
 
-▸ 🚀 Interview Copilot (Strongest)        ➜ ### 🚀 INTERVIEW COPILOT
-▸ 🌐 Web-Folio (Portfolio)                ➜ #-web-folio
-▸ 🍽️  Food Eat                             ➜ #-food-eat
-▸ 🤖 AI Code Review (Learning)            ➜ #-ai-code-review
+▸ 🚀 Interview Copilot
+▸ 🌐 Web-Folio
+▸ 🍽️  Food Eat
+▸ 🤖 AI Code Review
 
 ─────────────────────────────────────────────────────────────────
 
@@ -103,13 +103,13 @@ ImageKit • Cloudinary • Gemini APIs • Cursor AI • Square Space • DSA
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Learning & Building
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=typescript,nextjs" />
-
-</p>
+| Topic | Repository | Description |
+|-------|-----------|-------------|
+| 🧠 **DSA** | [Data Structures & Algorithms](https://github.com/Wahaj-Developer/DSA) | Mastering problem-solving with optimized solutions |
+| 🏗️ **System Design** | [System Design Guide](https://github.com/Wahaj-Developer/System-Design) | Building scalable architectures and design patterns |
+| 🤖 **AI Engineering** | [AI Engineering Playbook](https://github.com/Wahaj-Developer/AI-Engineering-Playbook) | LLM integration, prompt engineering, and best practices |
 
 ---
 
@@ -143,179 +143,108 @@ ImageKit • Cloudinary • Gemini APIs • Cursor AI • Square Space • DSA
 
 ## 💼 Featured Projects
 
-### 🚀 INTERVIEW COPILOT
+### 🚀 Interview Copilot
+
+**AI-powered platform to help candidates prepare for technical interviews**
+
+- Real-time interview simulation with AI feedback
+- Performance analytics & tracking
+- Mock interviews with instant results
+- Interview history & improvement tracking
+
+---
+
+### 🌐 Web-Folio
+
+**Personal Portfolio Showcase**
+
+- Responsive design across all devices
+- Project showcase with live demos
+- Smooth scroll animations & transitions
+- Dark mode support
+
+---
+
+### 🍽️ Food Eat
+
+**Web Platform to Discover & View Food**
+
+- Browse restaurants and food items
+- Smooth UI/UX experience
+- Filter and search functionality
+- User-friendly food discovery interface
+
+---
+
+### 🤖 AI Code Review
+
+**Automated code review tool powered by AI**
+
+- Automated code analysis & scanning
+- AI-powered suggestions & improvements
+- Code quality scoring
+- Best practices recommendations
+
+---
+
+## 📖 Visit My Portfolio
 
 ```text
-╔════════════════════════════════════════════════════════════════════════════╗
-║                          🚀 INTERVIEW COPILOT                             ║
-║                        (My Strongest Project!)                            ║
-╚══════════════════════════════════════════════════════��═════════════════════╝
+╔═════════════════════════════════════════════════════════════════╗
+║              🚀 EXPLORE MY WORK & DETAILED DOCS                 ║
+╚═════════════════════════════════════════════════════════════════╝
 
-Description : AI-powered platform to help candidates prepare for technical
-              interviews with real-time feedback and mock interviews.
+Visit my portfolio to explore:
+• Full project case studies and detailed breakdowns
+• Live project demos and implementations
+• Comprehensive project documentation
+• Technical blog posts and insights
+• Additional learning resources
 
-Tech Stack  : React • Node.js • Express • MongoDB • Gemini APIs
+👉 Explore Everything: https://my-website-personal-portfolio.netlify.app/
 
-Features    : • Real-time interview simulation
-              • AI-powered feedback and analysis
-              • Performance analytics & tracking
-              • Mock interview with instant results
-              • Interview history & improvements
-
-Links       : 
-  🔗 Live Demo          : [Interview Copilot Demo](#)
-  📖 Case Study         : [Full Case Study](#)
-  📚 Documentation      : [Project Docs](#)
-  💻 Repository         : [View on GitHub](#)
-
-─────────────────────────────────────────────────────────────────────────────
+──────────────────────────────────────────────────────────────────
 ```
 
 ---
 
-### 🌐 WEB-FOLIO
-#### *Personal Portfolio*
+## 📋 Resume & Quick Links
 
-```text
-╔════════════════════════════════════════════════════════════════════════════╗
-║                            🌐 WEB-FOLIO                                   ║
-║                        (Personal Portfolio)                               ║
-╚════════════════════════════════════════════════════════════════════════════╝
-
-Description : A modern, responsive personal portfolio showcasing projects,
-              skills, and professional journey with smooth animations.
-
-Tech Stack  : React • Tailwind CSS • JavaScript • Figma Design
-
-Features    : • Responsive design across all devices
-              • Project showcase with live demos
-              • Smooth scroll animations & transitions
-              • Contact form with validation
-              • Dark mode support
-
-Links       :
-  🔗 Live Demo          : https://interview-copilot-6uhu.vercel.app/login
-  📖 Case Study         : [Full Case Study](https://web-folio-tlrw.vercel.app/blog/interview-ai-building-a-full-stack-ai-powered-interview-preparation-platform)
-  📚 Documentation      : [Project Docs](https://web-folio-tlrw.vercel.app/blog/interview-ai-case-study-why-i-built-it-how-i-built-it-and-everything-that-tried-to-stop-me)
-  💻 Repository         : [View on GitHub](https://github.com/Wahaj-Developer/InterviewCopilot)
-
-─────────────────────────────────────────────────────────────────────────────
-```
-
----
-
-### 🍽️ FOOD EAT
-#### *Food Delivery Platform*
-
-```text
-╔════════════════════════════════════════════════════════════════════════════╗
-║                            🍽️  FOOD EAT                                    ║
-║                       (Food Delivery Platform)                            ║
-╚════════════════════════════════════════════════════════════════════════════╝
-
-Description : A comprehensive food delivery application connecting users with
-              restaurants and enabling seamless ordering experience.
-
-Tech Stack  : React • Node.js • Express • MongoDB • Tailwind CSS
-
-Features    : • Restaurant listings & filters
-              • Real-time order management
-              • User authentication & profiles
-              • Payment integration
-              • Order tracking & history
-              • Search & recommendations
-
-Links       :
-  🔗 Live Demo          : [Food Eat Demo](https://food-eat-web-application.vercel.app/user/login)
-  📖 Case Study         : [Full Case Study](https://web-folio-tlrw.vercel.app/blog/food-view-case-study-why-i-built-it-how-i-built-it-and-the-css-that-personally-attacked-me)
-  📚 Documentation      : [Project Docs](https://web-folio-tlrw.vercel.app/blog/food-view-building-a-full-stack-short-video-food-discovery-platform)
-  💻 Repository         : [View on GitHub](https://github.com/Wahaj-Developer/Food-Eat-Application)
-
-─────────────────────────────────────────────────────────────────────────────
-```
-
----
-
-### 🤖 AI CODE REVIEW
-#### *Learning Project*
-
-```text
-╔════════════════════════════════════════════════════════════════════════════╗
-║                         🤖 AI CODE REVIEW                                 ║
-║                        (Learning Project)                                 ║
-╚════════════════════════════════════════════════════════════════════════════╝
-
-Description : Automated code review tool powered by AI to provide intelligent
-              feedback on code quality, performance, and best practices.
-
-Tech Stack  : React • Node.js • Gemini APIs • Express • MongoDB
-
-Features    : • Automated code analysis & scanning
-              • AI-powered suggestions & improvements
-              • Performance metrics & insights
-              • Code quality scoring
-              • Best practices recommendations
-              • Integration with multiple languages
-
-Links       :
-  🔗 Live Demo          : [AI Code Review Demo](#)
-  📖 Case Study         : [Full Case Study](#)
-  📚 Documentation      : [Project Docs](#)
-  💻 Repository         : [View on GitHub](#)
-
-─────────────────────────────────────────────────────────────────────────────
-```
-
----
-
-## 📖 Resources & Learning
-
-```text
-╔════════════════════════════════════════════════════════════════════════════╗
-║                   📚 AI ENGINEERING PLAYBOOK                              ║
-╚════════════════════════════════════════════════════════════════════════════╝
-
-Focus       : AI integration, prompt engineering, API management
-
-Repository  : https://github.com/Wahaj-Developer/AI-Engineering-Playbook
-
-Use Cases   : • Building AI-powered applications
-              • Integrating LLMs effectively
-              • Optimizing AI workflows
-              • Best practices & patterns
-              • Real-world implementations
-
-─────────────────────────────────────────────────────────────────────────────
-```
-
----
-
-## 🤝 Connect With Me
-
-| Platform | Link |
+| Resource | Link |
 |----------|------|
-| 🌐 Portfolio | https://my-website-personal-portfolio.netlify.app/ |
-| 🌳 Linktree | https://wahaj-link-tree.netlify.app/ |
-| 💼 LinkedIn | https://www.linkedin.com/in/wahaj-a-212bb633b/ |
-| 📸 Instagram | https://www.instagram.com/codewithwahaj/ |
-| 🎵 TikTok | https://www.tiktok.com/@codewithwahaj |
-| 🐦 X | https://x.com/WahajAhmed82826 |
-| 📘 Facebook | https://www.facebook.com/wahaj.khan.820939 |
-| 💻 Fiverr | https://www.fiverr.com/sellers/wahajakhanahmed |
+| 📄 **Resume** | [Download PDF](https://drive.google.com/your-resume-link) |
+| 🌐 **Portfolio** | https://my-website-personal-portfolio.netlify.app/ |
+| 🌳 **Linktree** | https://wahaj-link-tree.netlify.app/ |
+| 💼 **LinkedIn** | https://www.linkedin.com/in/wahaj-a-212bb633b/ |
+| 📸 **Instagram** | https://www.instagram.com/codewithwahaj/ |
+| 🎵 **TikTok** | https://www.tiktok.com/@codewithwahaj |
+| 🐦 **X (Twitter)** | https://x.com/WahajAhmed82826 |
+| 📘 **Facebook** | https://www.facebook.com/wahaj.khan.820939 |
+| 💻 **Fiverr** | https://www.fiverr.com/sellers/wahajakhanahmed |
 
 ---
 
 ## 👤 About Me
 
-I'm a passionate Full Stack MERN developer from Pakistan, constantly learning and building projects to sharpen my skills. I believe in the power of consistency and continuous improvement. When I'm not coding, I'm learning new technologies, contributing to open-source projects, or sharing knowledge with the community.
+I'm a passionate Full Stack MERN developer from Pakistan, constantly learning and building projects to sharpen my skills. I believe in the power of consistency and continuous improvement.
 
-With experience in:
-- **Full-stack web development** using the MERN stack
-- **AI integration** with modern APIs and LLMs
-- **UI/UX design** principles and implementation
-- **Cloud services** integration (ImageKit, Cloudinary)
-- **Open-source contribution** and community involvement
-- **Data Structures & Algorithms** for optimized solutions
+**My expertise includes:**
+- Full-stack web development using the MERN stack
+- AI integration with modern APIs and LLMs
+- UI/UX design principles and implementation
+- Cloud services integration (ImageKit, Cloudinary)
+- Data Structures & Algorithms for optimized solutions
+- System Design and scalable architectures
+- Open-source contributions and community involvement
+
+---
+
+## 🏆 Current Achievements
+
+- ⭐ Built Interview Copilot with AI-powered mock interviews and real-time feedback
+- 🎓 Contributing to AI Engineering Playbook with practical implementation guides
+- 🔗 Active open-source contributor and learner
+- 📚 Mastering DSA, System Design, and AI Engineering
 
 ---
 
@@ -326,6 +255,14 @@ With experience in:
 <img src="https://komarev.com/ghpvc/?username=Wahaj-Developer&style=for-the-badge&color=blue"/>
 
 </p>
+
+---
+
+## 🚀 Let's Collaborate
+
+💡 **Open to:** Freelance projects • Full-time opportunities • Open source contributions • Technical partnerships
+
+📧 **Get in Touch:** [LinkedIn](https://www.linkedin.com/in/wahaj-a-212bb633b/) | [Portfolio](https://my-website-personal-portfolio.netlify.app/) | [Email](mailto:your-email@example.com)
 
 ---
 
