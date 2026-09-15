@@ -107,8 +107,8 @@ ImageKit • Cloudinary • Gemini APIs • Cursor AI • Square Space • DSA
 
 | Topic | Repository | Description |
 |-------|-----------|-------------|
-| 🧠 **DSA** | [Data Structures & Algorithms](https://github.com/Wahaj-Developer/DSA) | Mastering problem-solving with optimized solutions |
-| 🏗️ **System Design** | [System Design Guide](https://github.com/Wahaj-Developer/System-Design) | Building scalable architectures and design patterns |
+| 🧠 **DSA** | [Data Structures & Algorithms](https://github.com/Wahaj-Developer/Data-Structures-Algorithms) | Mastering problem-solving with optimized solutions |
+| 🏗️ **System Design** | [System Design Guide](https://github.com/Wahaj-Developer/System-Design-Playbook) | Building scalable architectures and design patterns |
 | 🤖 **AI Engineering** | [AI Engineering Playbook](https://github.com/Wahaj-Developer/AI-Engineering-Playbook) | LLM integration, prompt engineering, and best practices |
 
 ---
@@ -201,7 +201,7 @@ Visit my portfolio to explore:
 • Technical blog posts and insights
 • Additional learning resources
 
-👉 Explore Everything: https://my-website-personal-portfolio.netlify.app/
+👉 Explore Everything: https://web-folio-tlrw.vercel.app/
 
 ──────────────────────────────────────────────────────────────────
 ```
@@ -212,8 +212,8 @@ Visit my portfolio to explore:
 
 | Resource | Link |
 |----------|------|
-| 📄 **Resume** | [Download PDF](https://drive.google.com/your-resume-link) |
-| 🌐 **Portfolio** | https://my-website-personal-portfolio.netlify.app/ |
+| 📄 **Resume** | [Download PDF](https://drive.google.com/file/d/1qWIuNQ61JZnxutv4Dm_ppwtYewD85AXC/view?usp=drive_link) |
+| 🌐 **Portfolio** | https://web-folio-tlrw.vercel.app/ |
 | 🌳 **Linktree** | https://wahaj-link-tree.netlify.app/ |
 | 💼 **LinkedIn** | https://www.linkedin.com/in/wahaj-a-212bb633b/ |
 | 📸 **Instagram** | https://www.instagram.com/codewithwahaj/ |
